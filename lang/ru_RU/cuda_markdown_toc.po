@@ -1,0 +1,39 @@
+# Russian translation for Markdown TOC plugin.
+# Русский перевод для плагина Markdown TOC.
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Markdown TOC\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: 2025-01-01 00:00+0000\n"
+"Last-Translator: Your Name <your@email.com>\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: __init__.py:298
+msgid "Document is empty"
+msgstr "Документ пуст"
+
+#: __init__.py:310
+msgid "No Markdown headings found"
+msgstr "Заголовки Markdown не найдены"
+
+#: __init__.py:400
+msgid "Could not determine the caret position"
+msgstr "Не удалось определить позицию каретки"
+
+#: __init__.py:435
+msgid "Markdown TOC updated"
+msgstr "Оглавление Markdown обновлено"
+
+#: __init__.py:445
+msgid "Markdown TOC inserted"
+msgstr "Оглавление Markdown вставлено"
+
+#: __init__.py:475
+msgid "Managed Markdown TOC markers were not found"
+msgstr "Маркеры управляемого Оглавления Markdown не найдены"

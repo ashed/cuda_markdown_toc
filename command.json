@@ -1,0 +1,10 @@
+[
+    {
+        "name": "run",
+        "caption": "MarkdownTOC: Insert"
+    },
+    {
+        "name": "update",
+        "caption": "MarkdownTOC: Update"
+    }
+]

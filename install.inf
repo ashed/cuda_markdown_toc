@@ -1,0 +1,18 @@
+[info]
+title=Markdown TOC Insert
+desc=Insert and update a Markdown table of contents
+type=cudatext-plugin
+subdir=cuda_markdown_toc
+homepage=https://github.com/CudaText-addons/cuda_markdown_toc
+
+[item1]
+section=commands
+caption=Markdown TOC\Insert Table of Contents
+method=run
+lexers=Markdown
+
+[item2]
+section=commands
+caption=Markdown TOC\Update Table of Contents
+method=update
+lexers=Markdown
